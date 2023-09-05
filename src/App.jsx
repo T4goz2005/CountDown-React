@@ -3,7 +3,7 @@ import Title from "./components/Title";
 import Counter from "./components/Counter";
 import useCoutdown from "./hooks/useCountdown";
 
-import imgFundo from "./img/ftfundo.jpg"
+import imgFundo from "./img/ftfundo.png"
 
 function App() { 
 
